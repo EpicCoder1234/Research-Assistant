@@ -1,0 +1,20 @@
+.venv
+.env
+venv
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+chroma_db/
+*.egg-info/
+
+# Environment
+.env
+
+# Node
+node_modules/
+dist/
+
+# Misc
+.DS_Store
